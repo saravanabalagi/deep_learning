@@ -1,5 +1,12 @@
+# Python
+__pycache__
+*.py[cod]
+
+# Data Sources
+*.tar.gz
+*.pickle
+*.zip
+
+# Extracted Data
 /not_mnist/notMNIST_large
 /not_mnist/notMNIST_small
-**/*.tar.gz
-**/*.pickle
-**/*.zip
